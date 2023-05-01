@@ -1,0 +1,40 @@
+table, th, td {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 5px;
+    width: 14.28%;
+    margin-top: 20px;
+    transition: 1s;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid rgb(31, 31, 31);
+}
+th {
+    background-color: rgb(31, 31, 31);
+    color: #fff;
+    border-radius: 5px;
+}
+body{
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    color: rgb(31, 31, 31);
+}
+table{
+    width: 100%;
+}
+input{
+    width: 200px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+button:hover{
+    cursor: pointer;
+}
+span:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.mala{
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
